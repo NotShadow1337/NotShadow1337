@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
 
-- 🔭 I’m currently working on a **Anti Nuke Bot**
+- 🚀 I’m currently working on a **Anti Nuke Bot**
 
 - 💻 currently learning **Typescript and Javascript**
 
