@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact : **I can make a discord bot for you !**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/shadowcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadowcodes" height="30" width="40" /></a>
 <a href="https://discord.gg/devscafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devscafe" height="30" width="40" /></a>
