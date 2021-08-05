@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shadowcodesyt" alt="shadowcodesyt" /></a> </p>
-
 - 🔭 I’m currently working on a **Anti Nuke Bot**
 
 - 🌱 currently learning **Typescript**
