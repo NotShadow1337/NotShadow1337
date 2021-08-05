@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **discord.gg/devscafe**
+- 📫 How to reach me [**discord.gg/devscafe**](https://discord.gg/devscafe)
 
 - ⚡ Fun fact **I can make a discord bot for you !**
 
