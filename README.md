@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on a **Anti Nuke Bot**
 
-- 🌱 currently learning **Typescript**
+- 🌱 currently learning **Typescript and Javascript**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me [**discord.gg/devscafe**](https://discord.gg/devscafe)
+- 📫 reach me [**Here**](https://discord.gg/devscafe)
 
-- ⚡ Fun fact **I can make a discord bot for you !**
+- ⚡ Fun fact : **I can make a discord bot for you !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
