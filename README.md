@@ -4,17 +4,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
 
 <p align="center">
-- 🚀 I’m currently working on an **Anti Nuke Bot**.
+- 🚀 I’m currently working on an <bold>Anti Nuke</bold>Bot.
+</p>
 
+<p align="center">
 - 💻 currently learning **Javascript.**
+</p>
 
-- 🔎 Contact me [**Here**](https://discord.gg/devscafe)
+<p align="center">
+- 🔎 Contact me [**Here**](https://discord.gg/RqEXvVJz)
 </p>
 
 <h3 align="center">My Socials:</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/shadowcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadowcodes" height="30" width="40" /></a>
-<a href="https://discord.gg/devscafe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devscafe" height="30" width="40" /></a>
+<a href="https://discord.gg/RqEXvVJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RqEXvVJz" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
