@@ -18,7 +18,7 @@
 <h3 align="center">Find Me Here</h3>
 <p align="center">
 <a href="https://www.youtube.com/c/shadowcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadowcodes" height="30" width="40" /></a>
-<a href="https://discord.gg/RqEXvVJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="RqEXvVJz" height="30" width="40" /></a>
+<a href="https://discord.gg/RqEXvVJz" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/900589010597068810/902076203207381013/Icon.png" alt="RqEXvVJz" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Support Me By Adding My Discord Bots To Your Server.</h3>
