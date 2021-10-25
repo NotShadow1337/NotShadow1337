@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
 
 <p align="center">
-- 🚀 I’m currently working on an <bold>Anti Nuke</bold>Bot.
+- 🚀 I’m currently working on an <b>Anti Nuke</b> Bot.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-- 🔎 Contact me [**Here**](https://discord.gg/RqEXvVJz)
+- 🔎 Contact me on Discord : </Shadow>#0001
 </p>
 
 <h3 align="center">My Socials:</h3>
