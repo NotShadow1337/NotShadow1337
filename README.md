@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-- 💻 currently learning **Javascript.**
+- 💻 currently learning <b>Javascript>.</b>
 </p>
 
 <p align="center">
-- 🔎 Contact me on Discord : </Shadow>#0001
+- 🔎 Contact me on <a href="https://discord.gg/RqEXvVJz">Discord</a>
 </p>
 
 <h3 align="center">My Socials:</h3>
