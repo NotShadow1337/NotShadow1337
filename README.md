@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-- 💻 currently learning <b>Javascript>.</b>
+- 💻 currently learning <b>Javascript.</b>
 </p>
 
 <p align="center">
