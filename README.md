@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shadow</h1>
 <h3 align="center">A passionate developer, and a small youtuber [1000+ Subs]</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
 
 - 🚀 I’m currently working on an **Anti Nuke Bot**.
 
