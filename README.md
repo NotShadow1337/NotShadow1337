@@ -26,6 +26,7 @@
     <img align="center" src="https://images-ext-1.discordapp.net/external/zsG9SZn6DSBBagYwStquk_exBcml49AyudZHqS1sVhg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/750253000638857216/7365cc31052c004c826e214a5223839f.webp?width=683&height=683" alt="RqEXvVJz" height="30" width="30" />   - <a href="https://dsc.gg/shadow-security"><b>Protection</b></a> - A Fast & Safe Anti Nuke Bot with whitelisting.
     </p>
 
-<a href="https://top.gg/bot/750253000638857216">
+<div align="center"><a href="https://top.gg/bot/750253000638857216">
   <img src="https://top.gg/api/widget/750253000638857216.svg">
+    </div>
 </a>
