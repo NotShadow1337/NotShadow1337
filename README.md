@@ -1,32 +1,53 @@
-<h1 align="center">Hi 👋, I'm Shadow</h1>
-<h3 align="center">A passionate developer, and a small youtuber [1000+ Subs]</h3>
+-----
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&label=Profile%20views&color=0e75b6&style=flat" alt="shadowcodesyt" /> </p>
+```
+➜ ./shadow/readme.md
+```
+```md
+
+    _____ __              __                 | Shadow@github
+   / ___// /_  ____ _____/ /___ _      __    | ------------
+   \__ \/ __ \/ __ `/ __  / __ \ | /| / /    | 📝・14 Years old.
+  ___/ / / / / /_/ / /_/ / /_/ / |/ |/ /     | 🐍・A Determined Python Developer
+ /____/_/ /_/\__,_/\__,_/\____/|__/|__/      | 🎥・A small Youtuber
+ 
+
+➜ ./shadow/readme.md ~ git:(master) ✗ tree
+.
+├── Language
+│   ├── css
+│   ├── Html
+│   └── Python
+|
+├── Learning
+│   ├── React
+│   ├── Golang
+│   └── Javascript
+|
+├── Framework
+│   ├── Flask
+│   └── NodeJs
+|
+└── Backend_Dev.txt
+ 
+3 directory, 8 files
+
+➜ ./shadow/social_media.md
+
+│── Twitter    -> twitter.com/shadowcodesyt
+│── GitHub     -> github.com/shadowcodesyt
+│── Discord    -> vu.fr/rca-discord
+│── Youtube    -> youtube.com/shadowcodes
+│
+└── social_media.md
+
+➜ ./shadow/readme.md ~ git:(master) ✗ 
+```
+
+-----
 
 <p align="center">
-- 🚀 I’m currently working on an <b>Anti Nuke</b> Bot.
+  <img alt="Followers" src="https://img.shields.io/github/followers/shadowcodesyt?style=social">
+  <img alt="Total Stars" src="https://img.shields.io/github/stars/shadowcodesyt?style=social">
+  <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&color=blue">
 </p>
-
-<p align="center">
-- 💻 currently learning <b>Javascript.</b>
-</p>
-
-<p align="center">
-- 🔎 Contact me on <a href="https://discord.gg/RqEXvVJz">Discord</a>
-</p>
-
-<h3 align="center">Find Me Here</h3>
-<p align="center">
-<a href="https://www.youtube.com/c/shadowcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadowcodes" height="30" width="40" /></a>
-<a href="https://discord.gg/RqEXvVJz" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord--v2.png" alt="RqEXvVJz" height="40" width="40" /></a>
-</p>
-
-<h3 align="center">Support Me By Adding My Discord Bots To Your Server.</h3>
-<p align="center">
-    <img align="center" src="https://images-ext-1.discordapp.net/external/zsG9SZn6DSBBagYwStquk_exBcml49AyudZHqS1sVhg/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/750253000638857216/7365cc31052c004c826e214a5223839f.webp?width=683&height=683" alt="RqEXvVJz" height="30" width="30" />   - <a href="https://dsc.gg/shadow-security"><b>Protection</b></a> - A Fast & Safe Anti Nuke Bot with whitelisting.
-    </p>
-
-<div align="center"><a href="https://top.gg/bot/750253000638857216">
-  <img src="https://top.gg/api/widget/750253000638857216.svg">
-    </div>
-</a>
