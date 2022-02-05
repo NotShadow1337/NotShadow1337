@@ -36,7 +36,7 @@
 
 │── Twitter    -> twitter.com/shadowcodesyt
 │── GitHub     -> github.com/shadowcodesyt
-│── Discord    -> vu.fr/rca-discord
+│── Discord    -> discord.gg/protection
 │── Youtube    -> youtube.com/shadowcodes
 │
 └── social_media.md
