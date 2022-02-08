@@ -51,3 +51,8 @@
   <img alt="Total Stars" src="https://img.shields.io/github/stars/shadowcodesyt?style=social">
   <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&color=blue">
 </p>
+<center>
+<a href="https://top.gg/bot/600325534332747792">
+  <img src="https://top.gg/api/widget/600325534332747792.svg">
+</a>
+</center>
