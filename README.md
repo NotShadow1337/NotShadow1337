@@ -56,3 +56,7 @@
   <img src="https://top.gg/api/widget/600325534332747792.svg">
 </a>
 </center>
+
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCqEOEmOjE_bauen8w8REgLQ" data-layout="full" data-count="default"></div>
