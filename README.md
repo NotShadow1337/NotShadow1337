@@ -1,4 +1,4 @@
-```
+```py
 from GitHub import ReadMe
 
 class Shadow(ReadMe):
