@@ -1,58 +1,26 @@
------
-
 ```
-➜ ./shadow/readme.md
+from GitHub import ReadMe
+
+class Shadow(ReadMe):
+
+    def __init__(self):
+        self.username = "Shadow"
+        self.socials = {
+            "Discord": {
+                "username": "Not Shadow#1337",
+                "server": "discord.gg/antinuke"
+            }
+        }
+        self.nicknames = [
+            "Shadow",
+            "Shadow1337",
+            "NotShadow1337"
+        ]
+        self.location = "United States, california"
+        self.age = "17"
+        self.interests = [
+            "Programming",
+            "Music",
+            "Books"
+        ]
 ```
-```md
-
-    _____ __              __                 | Shadow@github
-   / ___// /_  ____ _____/ /___ _      __    | ------------
-   \__ \/ __ \/ __ `/ __  / __ \ | /| / /    | 📝・14 Years old.
-  ___/ / / / / /_/ / /_/ / /_/ / |/ |/ /     | 🐍・A Determined Python Developer
- /____/_/ /_/\__,_/\__,_/\____/|__/|__/      | 🎥・A small Youtuber
- 
-
-➜ ./shadow/readme.md ~ git:(master) ✗ tree
-.
-├── Language
-│   ├── css
-│   ├── Html
-│   └── Python
-|
-├── Learning
-│   ├── React
-│   ├── Golang
-│   └── Javascript
-|
-├── Framework
-│   ├── Flask
-│   └── NodeJs
-|
-└── Backend_Dev.txt
- 
-3 directory, 8 files
-
-➜ ./shadow/social_media.md
-
-│── Twitter    -> twitter.com/shadowcodesyt
-│── GitHub     -> github.com/shadowcodesyt
-│── Discord    -> discord.gg/protection
-│── Youtube    -> youtube.com/shadowcodes
-│
-└── social_media.md
-
-➜ ./shadow/readme.md ~ git:(master) ✗ 
-```
-
------
-
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/shadowcodesyt?style=social">
-  <img alt="Total Stars" src="https://img.shields.io/github/stars/shadowcodesyt?style=social">
-  <img src="https://komarev.com/ghpvc/?username=shadowcodesyt&color=blue">
-</p>
-<center>
-<a href="https://top.gg/bot/600325534332747792">
-  <img src="https://top.gg/api/widget/600325534332747792.svg">
-</a>
-</center>
