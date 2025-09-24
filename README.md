@@ -18,7 +18,7 @@ class Shadow(ReadMe):
             "Shadow1337",
             "NotShadow1337"
         ]
-        self.location = "United States, california"
+        self.location = "New Delhi, India"
         self.age = "17"
         self.interests = [
             "Programming",
