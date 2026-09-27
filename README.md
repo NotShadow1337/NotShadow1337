@@ -9,20 +9,16 @@ class Shadow(ReadMe):
         self.username = "Shadow"
         self.socials = {
             "Discord": {
-                "username": "Not Shadow#1337",
-                "server": "discord.gg/antinuke"
+                "username": "shadow.ripxxd",
+                "server": None
             }
         }
-        self.nicknames = [
-            "Shadow",
-            "Shadow1337",
-            "NotShadow1337"
         ]
         self.location = "New Delhi, India"
-        self.age = "17"
+        self.age = "19"
         self.interests = [
             "Programming",
-            "Music",
-            "Books"
+            "Gaming",
+            "Music"
         ]
 ```
