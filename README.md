@@ -9,7 +9,7 @@ class Shadow(ReadMe):
         self.username = "Shadow"
         self.socials = {
             "Discord": {
-                "username": "shadow.ripxxd",
+                "username": "shadow.rip",
                 "server": None
             }
         }
