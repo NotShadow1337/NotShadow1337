@@ -39,8 +39,8 @@
 │       └── Server-side Development
 |
 ├── Socials
-│   ├── X       : @shxdow.rip
-│   └── discord : @shadow.rip
+│   ├── X       : @ shxdow.rip
+│   └── discord : @ shadow.rip
 |
 └── backend-dev.txt
 ```
