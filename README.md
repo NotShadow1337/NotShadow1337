@@ -4,6 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=NotShadow1337&color=blue&abbreviated=true">
 </p>
 
+<p align="center">
+  <img src ="https://dsc-readme.tsuni.dev/api/user/381773847357161482?theme=dark&width=512&layout=compact">
+</p>
+
 -----
 
 ```md
@@ -39,8 +43,8 @@
 │       └── Server-side Development
 |
 ├── Socials
-│   ├── X       : @ shxdow.rip
-│   └── discord : @ shadow.rip
+│   ├── X       : @shxdow.rip
+│   └── discord : @shadow.rip
 |
 └── backend-dev.txt
 ```
