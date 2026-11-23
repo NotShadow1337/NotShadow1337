@@ -1,7 +1,7 @@
 <p align="center">
   <img alt="Followers" src="https://img.shields.io/github/followers/notshadow1337?style=social">
   <img alt="Total Stars" src="https://img.shields.io/github/stars/notshadow1337?style=social">
-  <img src="https://komarev.com/ghpvc/?username=NotShadow1337&color=blue&abbreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=NotShadow1337&color=blue">
 </p>
 
 <p align="center">
@@ -43,8 +43,8 @@
 │       └── Server-side Development
 |
 ├── Socials
-│   ├── X       : @ shxdowrip
-│   └── discord : @ shadow.rip
+│   ├── X       : @shxdow.rip
+│   └── discord : @shadow.rip
 |
 └── backend-dev.txt
 ```
